@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mio0lKJkcU4ltTLM4gpPdzQ2cZTsnAF1Oh4rv+opzjKsebUfkp6lrf2rqwgK2A2FAcj9WahwfygesxnQFCSP2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aad4w\\OneDrive\\Desktop\\Shawn\\ReadExcel\\ReadExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aad4w\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\aad4w\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
